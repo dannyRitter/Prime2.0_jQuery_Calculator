@@ -33,7 +33,7 @@ function sendToServer(){
 $(document).ready(function() {
   console.log('jQuery is sourced'); // debug mode
 
-  initializeApp();
+  // initializeApp();
 
   $(document).on('click', '#someBtn', logClick);
   function logClick() {
