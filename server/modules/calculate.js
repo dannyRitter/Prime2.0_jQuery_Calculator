@@ -14,6 +14,6 @@ var calculateMe = function(req, res){
 //         res.sendStatus(400);
 //   }
 //
-}
+};
 
 module.exports = calculateMe;
